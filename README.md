@@ -2,6 +2,8 @@
 
 CAD files and drawings.
 
+<img src="https://user-images.githubusercontent.com/5507503/58064573-54823200-7b8b-11e9-946e-c0019789c1b3.png" width="400"><img src="https://user-images.githubusercontent.com/5507503/58064574-55b35f00-7b8b-11e9-9d60-3929c6a2bcc6.png" width="200">
+
 ## License
 
     RoboRG is a low-cost camera motion control system.
